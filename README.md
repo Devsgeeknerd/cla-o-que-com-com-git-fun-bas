@@ -1,36 +1,33 @@
-# GULP
+<!-- Título -->
+# O Que é um Commit
 
-***Aulas:***
+***Conteúdo da Aula:***
 
-- [ ] O que é Gulp?
-- [ ] Instalação e Tasks.
-- [ ] Series e Parallel.
-- [ ] Lendo Arquivos e Executando.
-- [ ] Minificando JavaScript.
-- [ ] Minificando CSS.
-- [ ] Otimizando Imagens.
-- [ ] Salvando nas Pastas.
-- [ ] Gulp com Sass.
-- [ ] Interpretando ES6.
-- [ ] Importando CSS Dinamicamente.
-- [ ] Projeto — Calculadora (Parte 1).
-- [ ] Projeto — Calculadora (Parte 2).
-- [ ] Projeto — Calculadora (Parte 3).
-- [ ] Projeto — Calculadora (Parte 4).
-- [ ] Projeto — Calculadora (Parte 5).
+Podemos classificar um commit como uma forma de salvar as alterações realizadas em um arquivo.
 
-## INFORMAÇÕES
+Imagine a seguinte situação:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.gulp-front-end-zp "Total de Visitas")
+* Você, desenvolvedor, está finalizando as alterações de um arquivo e quer salvá-lo.
+* Para isso, você “commita” este arquivo com uma descrição da alteração que foi feita.
+* É este comentário que será exibido para esta alteração.
+
+O commit é um dos principais recursos do git, pois é com ele que criamos um histórico de alterações nos arquivos.
+
+E isso permite que, além de salvar, consigamos desfazer certas alterações, um processo chamado de “rollback”, como veremos nas próximas aulas.
+
+<!-- Informações -->
+## &#8505; Informações
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-o-que-com-com-git-fun-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/gulp-front-end-zp?style=social "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-o-que-com-com-git-fun-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/gulp-front-end-zp?style=social "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-o-que-com-com-git-fun-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/gulp-front-end-zp?style=social "Total de Forks")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-o-que-com-com-git-fun-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/gulp-front-end-zp?style=social "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-o-que-com-com-git-fun-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/gulp-front-end-zp?style=social "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-o-que-com-com-git-fun-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
